@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MonsterednFiltered/static/css/main.5d8a4be4.chunk.css",
+    "main.js": "/MonsterednFiltered/static/js/main.27418bc9.chunk.js",
+    "main.js.map": "/MonsterednFiltered/static/js/main.27418bc9.chunk.js.map",
+    "runtime-main.js": "/MonsterednFiltered/static/js/runtime-main.5cabcecf.js",
+    "runtime-main.js.map": "/MonsterednFiltered/static/js/runtime-main.5cabcecf.js.map",
+    "static/js/2.650d6c94.chunk.js": "/MonsterednFiltered/static/js/2.650d6c94.chunk.js",
+    "static/js/2.650d6c94.chunk.js.map": "/MonsterednFiltered/static/js/2.650d6c94.chunk.js.map",
+    "index.html": "/MonsterednFiltered/index.html",
+    "precache-manifest.a46fe941c0975cccdb73bc07736927d8.js": "/MonsterednFiltered/precache-manifest.a46fe941c0975cccdb73bc07736927d8.js",
+    "service-worker.js": "/MonsterednFiltered/service-worker.js",
+    "static/css/main.5d8a4be4.chunk.css.map": "/MonsterednFiltered/static/css/main.5d8a4be4.chunk.css.map",
+    "static/js/2.650d6c94.chunk.js.LICENSE.txt": "/MonsterednFiltered/static/js/2.650d6c94.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5cabcecf.js",
+    "static/js/2.650d6c94.chunk.js",
+    "static/css/main.5d8a4be4.chunk.css",
+    "static/js/main.27418bc9.chunk.js"
+  ]
+}
